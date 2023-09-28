@@ -1,0 +1,28 @@
+{
+  "name": "relojes",
+  "version": "1.0.0",
+  "description": "Proyecto de relojes con HTML,CSS,SASS,GULP Y JAVASCRIPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinprado1703/Info_Relojes.git"
+  },
+  "keywords": [
+    "SASS",
+    "GULP"
+  ],
+  "author": "Kevin Prado Agudelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinprado1703/Info_Relojes/issues"
+  },
+  "homepage": "https://github.com/kevinprado1703/Info_Relojes#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.68.0"
+  }
+}
