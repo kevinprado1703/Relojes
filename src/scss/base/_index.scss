@@ -1,0 +1,3 @@
+//Para usar @forward es necesario crear un archivo index.scss en las carpetas base y contenodo
+@forward 'variable'; //Apunta a los demas archivo siempre y cuando el principar apunte a la carpeta
+@forward 'normalize';

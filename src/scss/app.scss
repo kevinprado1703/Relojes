@@ -1,0 +1,9 @@
+ //El principal se encarga de importar las variables de manera global
+// Forma anterior para hacerle saber la ruta del archivo base
+
+@use 'base';
+@use 'layout';
+
+
+    // @use lo va a compilar (Acceder al contenido de un archivo en especifico)
+    // @forward apunta e indica donde estan esos archivo  (Solo va en el archivo index para apuntar a los demas y agregarlo a la compilacion) 
